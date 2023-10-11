@@ -1,0 +1,228 @@
+
+.dropdown-menu {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      margin-left: -100%;
+    }
+
+       .dropdown-menu a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    
+ .dropdown-menu a:hover {
+      background-color: #3498db;
+      color: white;
+
+ }
+
+.dropdown:hover .dropdown-menu {
+      display: block;
+    }
+
+    .raonbow{
+      display: flex;
+    }
+
+    .uuu{
+      display: flex;
+    }
+
+    .sss{
+      margin-top: 4%;
+    }
+
+    .okoo{
+      float: right;
+      margin-top: -15%;
+    }
+
+    .fol{
+      display: flex;
+      justify-content: space-around;
+    }
+    
+    .yyy{
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .kkk{
+      display: flex;
+      justify-content: space-around;
+    }
+
+     .iii{
+      display: flex;
+      justify-content: space-around;
+    }
+
+      .ddd{
+      display: flex;
+      justify-content: space-between;
+      margin-top: -15%;
+    }
+
+     .ccc{
+      display: flex;
+      justify-content: space-around;
+    }
+
+      .ss{
+      display: flex;
+      justify-content: space-around;
+    }
+
+      .tt{
+      display: flex;
+      justify-content: space-around;
+    }
+    
+      .ajax{
+      display: flex;
+      justify-content: space-around;
+    }
+
+      .ede{
+      display: flex;
+      justify-content: space-around;
+    }
+
+      .dog{
+      display: flex;
+      justify-content: space-around;
+    }
+
+       .rtr{
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .fish{
+        display: flex;
+      justify-content: space-between;
+    }
+    
+    .fish li{
+      list-style-type: none;
+    }
+
+    .fish li:hover{
+      text-decoration: underline;
+    }
+
+    
+    .fishh{
+        display: flex;
+      justify-content: space-between
+    }
+    
+    .fishh li{
+      list-style-type: none;
+    }
+
+    .fishh li:hover{
+      text-decoration: underline;
+    }
+
+    .fishhh{
+        display: flex;
+      justify-content: space-between;
+    }
+    
+    .fishhh li{
+      list-style-type: none;
+    }
+
+    .fishhh li:hover{
+      text-decoration: underline;
+    }
+
+      .fishhhh{
+        display: flex;
+      justify-content: space-between;
+    }
+    
+    .fishhhh li{
+      list-style-type: none;
+    }
+
+    .fishhhh li:hover{
+      text-decoration: underline;
+    }
+
+
+    
+           @media screen and (max-width:767px) {
+
+            .ssss{
+              width: 40%;
+            }
+
+            .aova{
+              width: 50%;
+              
+            }
+            .okoo{
+              margin-top: 5%;
+            }
+
+            .fol{
+              margin-top: 5%;
+            }
+
+            .hed{
+              display: none;
+            }
+            .odo{
+              display: none;
+            }
+            .ink{
+              display: none;
+            }
+
+            .leg{
+              display: none;
+            }
+            .film{
+              margin-left: 15%;
+            }
+
+            .beg{
+              font-size: 10px;
+            }
+
+            .oli{
+              margin-top: 5%;
+            }
+            .oil{
+              display: none;
+            }
+
+            .gloriouss{
+              display: none;
+            }
+            .glorious{
+              display: none;
+            }
+            .gloriousss{
+              display: none;
+            }
+            .glorioussss{
+              margin-left: 80%;
+            }
+           }
+
+           @media screen and (min-width:767px)and (max-width:1023px){
+
+            .aova{
+              width: 20%;
+            }
+           }

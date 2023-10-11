@@ -1,0 +1,126 @@
+.nav-item{
+    margin-right: 80px;
+    font-weight: 600;
+
+}
+.nav-item:hover{
+    color: black;
+}
+
+  .kiss{
+    margin-top: 6%;
+  }
+  .btn-primaryy{
+    width: 12%;
+  }
+
+ .fil{
+    margin-top: 3%;
+    margin-left: 3%;
+ }
+
+ .looo{
+    margin-top: -36%;
+ }
+
+ .btn-primaryyy{
+    width: 12%;
+ }
+
+ .dog{
+     margin-top: 3%;
+    margin-left: 3%;
+ }
+
+ .xoxo{
+      margin-top: -36%;
+ }
+
+ .coop{
+  
+    list-style-type: none;
+    margin-top: 5%;
+
+    
+ }
+ .coop li{
+    display: inline;
+    padding: 20px;
+    text-decoration: underline;
+ }
+
+
+ @media screen and (max-width:540px) {
+    
+    .pink{
+        display: none;
+    }
+       #window{
+        display: none;
+    }
+    #offcanvasExample{
+    width: 50px;
+}
+     h1{
+        margin-right: 35%;
+     }
+     h4{
+        margin-left: 10%;
+     }
+ }
+
+
+ @media screen and (max-width:1024px){
+  
+    .point{
+        display: none;
+    }
+
+    .looo{
+        margin-left: 40%;
+        margin-top: -50%;
+    }
+
+    .sars{
+        display: none;
+    }
+
+    .xoxo{
+        margin-left: 40%;
+        margin-top: -49%;
+    }
+
+      #window{
+        display: none;
+    }
+
+       #offcanvasExample{
+    width: 200px;
+}
+    
+ }
+
+
+  @media screen and (min-width:1024px){
+.looo{
+    margin-top: -44%;
+}
+
+.xoxo{
+    margin-top: -43%;
+}
+
+    
+    
+  } 
+ 
+
+  @media screen and (min-width:1280px){
+    .looo{
+        margin-top: -35%;
+    }
+
+    .xoxo{
+        margin-top: -34%;
+    }
+  }

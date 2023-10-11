@@ -1,0 +1,128 @@
+body{
+    overflow-x: hidden;
+}
+
+
+nav ul li{
+   margin-left: 40px;
+   font-weight: bolder;
+}
+
+nav  li :hover{
+    color: red;
+}
+
+.LOPP {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.evil ul li{
+    display: flex;
+    color: white;  font-weight: bolder;
+    
+}
+
+.locc ul li{
+    display: block;
+    font-weight: lighter;
+    margin-bottom: 10px;
+    margin-left: 9%;
+}
+
+.ori ul li{
+    display: block;
+    font-weight: lighter;
+   text-align: center;
+   
+}
+.vmv{
+    margin-top: -8%;
+}
+
+.okl ul li {
+    display: block;
+    font-weight: lighter;
+    text-align: end;
+    margin-right: 5%;
+}
+
+.kol{
+    margin-top: -8%;
+}
+
+
+.lom{
+    display: flex;
+    justify-content: space-around;
+}
+.ooo{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width:767px){
+  
+.main{
+    overflow-x: hidden;
+}
+
+.lom{
+    display: block;
+}
+
+.ooo{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.LOPP{
+    display: grid;
+}
+
+.locc{
+    display: grid;
+}
+
+.locc{
+    text-align: center;
+}
+
+.ori{
+    text-align: center;
+}
+
+.okl{
+    display: none;
+}
+   .container img{
+min-width: 30%;
+transform: translate(75%);
+    }
+}
+
+ @media screen and (min-width:767px)and (max-width:1023px){
+
+    .ori{
+        margin-top: -18%;
+    }
+    .okl{
+        margin-top: -10%;
+        margin-right: 3%;
+    }
+
+    .container img{
+min-width: 30%;
+transform: translate(75%);
+    }
+
+    .hgh{
+        font-size: 10px;
+        margin-top: -3%;
+    }
+ }
+

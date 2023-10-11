@@ -1,0 +1,296 @@
+
+.nav-item{
+    margin-left: 70%;
+}
+
+.glorious{
+    margin-left: 80%;
+}
+
+.dropdown-toggle:hover{
+    color: #3498db;
+}
+
+.gloriouss{
+    margin-left: 80%;
+}
+
+.gloriousss{
+    margin-left: 30%;
+}
+
+
+
+.dropdown-menu {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      margin-left: -100%;
+    }
+
+       .dropdown-menu a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    
+ .dropdown-menu a:hover {
+      background-color: #3498db;
+      color: white;
+
+ }
+
+.dropdown:hover .dropdown-menu {
+      display: block;
+    }
+
+   .rainbow {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      margin-left: -120%;
+      list-style-type: none;
+    }
+
+       .rainbow a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: start;
+    }
+
+    
+ .rainbow a:hover {
+      background-color: #3498db;
+      color: white;
+
+ }
+
+.dropdown:hover .rainbow {
+      display: block;
+    }
+
+     
+    .ori{
+        display: flex;
+    }
+
+    .main{
+        overflow-x: hidden;
+    }
+
+    .kik{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .jui{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .wss{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .ogbi{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .tgt{
+        display: flex;
+        justify-content: space-around;
+    }
+     /* Style for the image */
+                .zoom-image {
+                    width: 300px;
+                    /* Set the initial width of the image */
+                    height: 200px;
+                    /* Set the initial height of the image */
+                    transition: transform 0.3s;
+                    /* Add a smooth transition effect */
+                }
+
+                /* Apply the zoom effect on hover */
+                .zoom-image:hover {
+                    transform: scale(1.2);
+                    /* Increase the scale factor to zoom in more */
+                }
+
+    .ede{
+        display: flex;
+        justify-content: space-around;
+    }
+    .pop{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .jjk{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .gty{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .ewo{
+        display: flex;
+        justify-content: space-around;
+    }
+       
+    .ggoh{
+        display: flex;
+        justify-content: space-around;
+    }
+       
+    .goh{
+        display: flex;
+        justify-content: space-around;
+    }
+          
+    .ggohh{
+        display: flex;
+        justify-content: space-around;
+    }
+          
+    .gohh{
+        display: flex;
+        justify-content: space-around;
+    }
+
+        .cvc{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .rtr{
+        width: 15%;
+    }
+
+        .ghp{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+        .iii{
+        display: flex;
+        justify-content: space-around;
+       
+        }
+
+        .opo li{
+            list-style-type: none;
+            font-size: 65%;
+            color: rgba(124, 116, 116, 0.861);
+        }
+
+         .oro li{
+            list-style-type: none;
+              font-size: 65%;
+             color: rgba(124, 116, 116, 0.861);
+        }
+
+         .ppp li{
+            list-style-type: none;
+              font-size: 65%;
+            color: rgba(124, 116, 116, 0.861);
+         }
+ 
+
+           @media screen and (max-width:767px) {
+            
+            .glorious{
+                display: none;
+            }
+            .gloriouss{
+                display: none;
+            }
+            .gloriousss{
+                display: none;
+            }
+            .free{
+                display: none;
+            }
+
+.ori{
+    display: block;
+}
+.ori img{
+   min-width: 100%;
+   margin-left: 8%;
+   margin-bottom: 12%;
+   
+    
+}
+
+.btn-outline-success{
+    margin-left: 37%;
+}
+
+
+.wss img{
+    max-width: 20%;
+}
+
+}
+
+
+ @media screen and (min-width:767px)and (max-width:1023px){
+
+
+.wss img{
+    max-width: 30%;
+}
+
+.uuuu{
+    margin-left: 20%;
+}
+.oooo{
+    margin-left: 10%;
+}
+
+.btn-outline-success{
+    margin-top: 20%;
+}
+
+   .glorious{
+                display: none;
+            }
+            .gloriouss{
+                display: none;
+            }
+            .gloriousss{
+                display: none;
+            }
+            .free{
+                display: none;
+            }
+
+ }
+
+ @media screen and  (min-width:1023px){
+
+    .glorioussss{
+        margin-left:3%;
+    }
+
+    .vvv{
+        margin-left: 5%;
+    }
+ }
+
+ 

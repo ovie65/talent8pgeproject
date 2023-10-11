@@ -1,0 +1,387 @@
+nav ul li{
+   margin-left: 1px;
+   font-weight: bolder;
+   
+}
+
+#toe{
+    text-decoration: none;
+    
+    
+}
+#teeth{
+    text-decoration: none;
+}
+#correct{
+   text-decoration: none; 
+}
+#insta{
+    text-decoration: none;
+}
+#insta{
+    text-decoration: none;
+}
+#fastt{
+    text-decoration: none;
+}
+#furious{
+    text-decoration: none;
+}
+#three{
+    text-decoration: none;
+}
+
+
+.navbar-brand{
+    padding: 10px;
+    margin-right: 36%;
+}
+
+.mainn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.oran{
+    justify-content: end;
+}
+
+.lol{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.plo{
+    margin-top: 10%;
+    
+}
+.kok{
+   display: flex;
+   justify-content: space-between;
+}
+
+.ded{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ink{
+    display: flex;
+    justify-content: space-between;
+}
+
+.see{
+     display: flex;
+    justify-content: space-between;
+}
+
+.fhf{
+   display: flex;
+    justify-content: space-between;
+  
+}
+
+.bvb{
+   display: flex;
+    justify-content: space-between;
+  
+}
+
+.ere{
+   display: flex;
+    justify-content: space-between;
+  
+}
+
+
+ /* Style for the container */
+        .image-container {
+            position: relative;
+            display: inline-block;
+            border-radius: 100px;
+        }
+
+        /* Style for the image */
+        .image-container img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            transition: filter 0.3s ease-in-out;
+        }
+
+        /* Style for the word on hover */
+        .image-container .hover-word {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: opacity 0.3s ease-in-out;
+            text-align: center;
+        }
+
+        /* Apply blur effect on hover */
+        .image-container:hover img {
+            filter: blur(5px);
+        }
+
+        /* Show the word on hover */
+        .image-container:hover .hover-word {
+            opacity: 1;
+        }
+
+        .aza{
+           display: flex;
+    justify-content: space-between;
+   margin-top: 10%;
+        }
+
+   .ddd{
+     float: right;
+     margin-top: -24%;
+   }
+  
+   .uuu li{
+    color: white;
+    list-style-type: none;
+   }
+
+   .aaa li{
+    color: white;
+    list-style-type: none;
+   }
+
+   .aaa{
+    display: flex;
+    justify-content: space-around;
+    
+   }
+
+   .yyy li{
+ color: white;
+    list-style-type: none;
+   }
+
+   .qqq{
+    color: white;
+    list-style-type: none;
+   }
+
+   .bbb{
+     color: white;
+    list-style-type: none;
+   }
+
+   .sss{
+    display: flex;
+    justify-content: space-around;
+    
+   }
+
+   .can{
+    display: none;
+   }
+
+   @media screen and (max-width:767px) {
+  
+   .main{
+    overflow-x: hidden;
+   }
+.can{
+    display: block;
+    text-decoration:none;
+}
+    .mainn{
+        display: none;
+    }
+    .lol{
+        display: block;
+    }
+
+    .lol img {
+        margin-left: 20%;
+    }
+.iii{
+    text-align: center;
+}
+
+    .milk img {
+        margin-right: 20%;
+    }
+    .zzz{
+        text-align: center;
+    }
+    .rr{
+        text-align: center;
+    }
+
+    .kok{
+        display: block;
+    }
+
+   .ded{
+    display: block;
+   } 
+
+   .ded img{
+    margin-left: 20%;
+   }
+
+   .ded h3{
+    text-align: center;
+   }
+
+   .ink{
+    display: block;
+   }
+
+   .ink h3{
+    text-align: center;
+   }
+   .ink img{
+    margin-left: 27%;
+   }
+
+.see{
+    display: block;
+}
+.see h3 {
+    text-align: center;
+}
+
+.see img{
+     margin-left: 27%;
+}
+
+.fhf{
+    display: block;
+}
+
+.fhf img{
+     margin-left: 27%;
+}
+.fhf h3 {
+    text-align: center;
+}
+
+.bvb{
+    display: block;
+}
+
+.bvb img{
+     margin-left: 27%;
+}
+.bvb h3 {
+    text-align: center;
+}
+
+.ere{
+    display: block;
+}
+
+.ere img{
+     margin-left: 27%;
+}
+.ere h3 {
+    text-align: center;
+}
+
+.aza{
+    display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.buttonn{
+    margin-left: 20%;
+   
+        min-width: 250px;
+}
+
+.ddd{
+    margin-top: 6%;
+}
+
+.drt{
+    margin-top: 40%;
+    
+}
+
+.kck h1{
+    text-align: center;
+}
+.kck h5{
+    text-align: center;
+}
+
+.jhg {
+    text-align: center;
+}
+
+.aaa li{
+    margin-right: 2%;
+}
+
+.sss li{
+font-size: small;
+}
+
+.yyy li{
+    font-size: small;
+}
+.qqq li {
+    font-size: small;
+}
+.bbb li {
+    font-size: small;
+}
+   }
+
+   @media screen and (min-width:767px)and (max-width:1023px){
+
+    .oran img{
+      margin-left: 25%;
+    }
+    .zzz{
+        margin-left: 25%;
+    }
+    .rr{
+        text-align: center;
+    }
+    .kvg{
+        margin-right: 50%;
+    }
+    .can{
+    display: block;
+    text-decoration:none;
+}
+
+    .bvb h3{
+        text-align: center;
+        margin-bottom: 10%;
+    }
+
+    .ddd h5{
+        font-weight: lighter;
+        margin-left: 25%;
+        text-align: center;
+        margin-top: -10%;
+    }
+    .jhg li{
+        margin-left: 45%;
+    }
+
+    .drt{
+        margin-top: -4%;
+        padding-bottom: 20px;
+    }
+
+   }
+
+   @media screen and (min-width:1024px ){
+
+   }
